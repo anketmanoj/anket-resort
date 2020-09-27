@@ -64,6 +64,7 @@ h6 {
   transition: var(--mainTransition);
   text-transform: uppercase;
   cursor: pointer;
+  text-align: center;
 }
 .btn-primary:hover {
   background: transparent;
@@ -252,6 +253,7 @@ h6 {
 }
 .services h6 {
   letter-spacing: var(--mainSpacing);
+  text-transform: capitalize;
 }
 .services p {
   width: 80%;
@@ -337,6 +339,7 @@ h6 {
   left: 50%;
   transform: scale(0);
   transition: all 0.3s linear;
+  text-align: center;
 }
 .img-container:hover {
   background: rgba(0, 0, 0, 0.8);

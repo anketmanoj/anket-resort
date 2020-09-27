@@ -12,7 +12,7 @@ export default class Services extends Component {
             },
             {
                 icon:<FaHiking/>,
-                title:"Incredile trails",
+                title:"Incredible trails",
                 info: "Lorem ipsum nisi dolor aliquip sit tempor in laboris anim id ullamco est amet."
             },
             {
